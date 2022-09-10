@@ -15,6 +15,8 @@ public class Main
                 
                 System.out.println("Изменение 4");
                 System.out.println("ахахахахахахахаха55");
+                System.out.println("это моя учёба))");
+
 
 	}
 }

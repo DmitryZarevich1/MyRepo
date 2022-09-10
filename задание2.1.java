@@ -6,6 +6,7 @@ class Main {
      
      System.out.println(x);
       System.out.println("изменения1");
+      System.out.println("я достигну своих целей");
 
 
     }}
