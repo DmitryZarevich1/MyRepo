@@ -1,0 +1,16 @@
+package shapes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Circle circle = new Circle("циркуль",5.5);
+		System.out.println(circle.perimetr());
+		System.out.println(circle);
+		
+		Hexagon hex = new Hexagon("шестиугольник",34);
+		System.out.println(hex.perimetr());
+		System.out.println(hex);
+
+	}
+
+}

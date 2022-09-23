@@ -1,0 +1,21 @@
+package shapes.quadrialaterals;
+
+public class Square extends Shapes{
+
+	public Quadrialateral() {
+		// TODO Auto-generated constructor stub
+	}
+	public Square(String name,double length,double width) {
+		super (name,length,width);
+	}
+	
+	@Override
+	public double perimetr() {
+		return getLength()+getWidth()*2;
+	}
+	@Override
+	public String toString() {
+		return return "Фигура: "+getName()+" Периметр: "+perimetr();
+	}
+
+}
