@@ -1,0 +1,9 @@
+package shapes;
+
+public class oval {
+
+	public oval() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

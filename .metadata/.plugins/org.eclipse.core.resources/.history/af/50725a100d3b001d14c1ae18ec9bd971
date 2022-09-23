@@ -1,0 +1,9 @@
+package triangles;
+
+public class Triangles {
+
+	public Triangles() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

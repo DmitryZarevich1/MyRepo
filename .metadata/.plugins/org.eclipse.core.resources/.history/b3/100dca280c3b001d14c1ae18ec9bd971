@@ -1,0 +1,9 @@
+package stepic1;
+
+public class Triangles {
+
+	public Triangles() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
